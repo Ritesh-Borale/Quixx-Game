@@ -15,7 +15,7 @@ html, body {
     display: flex;
     flex-direction: column;
     align-items: center;
-    background-image: url(/Quizz-Image.jpg);
+    background-image: url(Quizz-Image.jpg);
     background-repeat: no-repeat;
     background-size: cover; /* Make the background image cover the entire container */
 }
